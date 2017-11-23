@@ -2,6 +2,9 @@
 // https://github.com/clowwindy/gfwlist2pac
 
 var domains = {
+  "apache.org":1,
+  "ebay.com": 1,
+  "bestbuy.com": 1,
   "osgia.com": 1,
   "medium.com": 1,
   "learngraphql.com": 1,
